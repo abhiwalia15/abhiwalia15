@@ -1,3 +1,5 @@
+[![MasterHead](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)]
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mrinal Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a Data Scientist & a Freelance Technical Writer"</h3>
 
@@ -5,21 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhiwalia15&theme=mereko)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UClrAR1q9DKBmIuEg4w6mJlw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mrinal-walia-b0981b158/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </br>
-  <a href="https://github.com/abhiwalia15">
-    <img src="https://img.shields.io/github/followers/abhiwalia15?style=social" alt="GitHub Follower"/>
-  </a>
-</div>
+<img align="right" src="https://media2.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b76114f182fc3d6e824d25b55c5715bb05f85fb86bb0c&rid=giphy.gif&ct=g" alt="DS" width="314"/>
+
 
 ### Who is Mrinal Walia:question::point_down:
 
@@ -42,6 +31,11 @@
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Open-Source Machine Learning Recommender System Projects With Resources](https://medium.com/becoming-human/top-5-open-source-machine-learning-recommender-system-projects-with-resources-50583c4007c3)
+- [Difference Between Semantic Segmentation and Instance Segmentation](https://blog.roboflow.com/difference-semantic-segmentation-instance-segmentation/)
+- [Microsoft’s Newest AI technology, “PeopleLens,” is Helping Blind People See](https://analyticsindiamag.com/microsofts-newest-ai-technology-peoplelens-is-helping-blind-people-see/)
+- [A Comprehensive Guide on Neo4j](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-neo4j-graph-database/)
+- [Make Your Abdominal Muscles Standout By Using Each Of These Five Exercises](https://waliamrinal.medium.com/make-your-abdominal-muscles-standout-by-using-each-of-these-five-exercises-6a30b1497d30)
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
