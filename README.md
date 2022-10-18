@@ -71,9 +71,9 @@
 
 <div class="row">
   <div class="column">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhiwalia15&theme=merko&count_private=true&show_icons=true&locale=en" alt="abhiwalia15" style="width:48%" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhiwalia15&theme=merko&count_private=true&show_icons=true&locale=en" alt="abhiwalia15" style="width:45%" /></p>
   </div>
   <div class="column">
-    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiwalia15&theme=merko" alt="abhiwalia15" style="width:48%"/></p>
+    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiwalia15&theme=merko" alt="abhiwalia15" style="width:45%"/></p>
   </div>
 </div>
