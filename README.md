@@ -3,7 +3,7 @@
 
 ### Liked my Contributions:question::point_right: [Check my Portfolio](https://abhiwalia15.github.io/portfolio/) :star: :sparkles:
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiwalia15" alt="abhiwalia15" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhiwalia15&theme=mereko)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -77,9 +77,9 @@
 
 <div class="row">
   <div class="column">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhiwalia15&theme=merko&count_private=true&show_icons=true&locale=en" alt="abhiwalia15" style="width:50%" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhiwalia15&theme=merko&count_private=true&show_icons=true&locale=en" alt="abhiwalia15" style="width:48%" /></p>
   </div>
   <div class="column">
-    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiwalia15&theme=merko" alt="abhiwalia15" style="width:50%"/></p>
+    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiwalia15&theme=merko" alt="abhiwalia15" style="width:48%"/></p>
   </div>
 </div>
