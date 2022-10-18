@@ -1,4 +1,4 @@
-[![MasterHead](/demo.gif)]
+![MasterHead](/demo.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mrinal Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a Data Scientist & a Freelance Technical Writer"</h3>
