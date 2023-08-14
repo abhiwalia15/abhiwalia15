@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mrinal Walia</h1>
 <h3 align="center">git commit -am "Hello, I'm a Junior Data Scientist & Technical Writer"</h3>
 
-### Liked my Contributions:question::point_right: [ Check my Portfolio ](https://abhiwalia15.github.io/portfolio/) :star: :sparkles:
+### Liked my Contributions:question::point_right: [ Check my Portfolio ](https://mrinalwalia.netlify.app/) :star: :sparkles:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhiwalia15&theme=mereko)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -12,11 +12,11 @@
 
 ### Who is Mrinal Walia:question::point_down:
 
-- 👨‍💻 All about me is at **[My Website](https://abhiwalia15.github.io/portfolio/)**
+- 👨‍💻 All about me is at **[My Website](https://mrinalwalia.netlify.app/)**
 
 - 💻 I'm a Data Scientist Co-op at **[Loblaws Companies Limited](https://www.linkedin.com/company/loblaw-companies-limited/mycompany/verification/)**, with 3.5 years of prior experience as a Junior Data Scientist who still loves igniting innovation in Data & Analytics
 
-- 📄 I hold a Master's in Applied Computing specializing in AI, driven by excitement for data exploration and creative problem-solving using Advanced Tools. Curious to see my work & education? **[➡️ My Resume](https://drive.google.com/file/d/1yzpIig8Yedn_pHO5F5y9jte3TnGjc3P7/view)**
+- 📄 I hold a Master's in Applied Computing specializing in AI, driven by excitement for data exploration and creative problem-solving using Advanced Tools. Curious to see my work & education? **[➡️ My Resume](https://drive.google.com/file/d/1KtfLEkBAI06dYI-ubQRgVZaWIX3xMN5R/view?usp=sharing)**
 
 - 📝 I love sharing my knowledge in the form of articles in **[Machine Learning & Deep Technology](https://medium.com/@waliamrinal/list/opensource-blogs-b68cf331d37d)**
 
