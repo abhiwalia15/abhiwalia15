@@ -14,7 +14,7 @@
 
 - 👨‍💻 All about me is at **[My Website](https://abhiwalia15.github.io/portfolio/)**
 
-- 💻 I'm a Data Scientist Co-op at **[Loblaws Companies Limited](https://www.linkedin.com/company/loblaw-companies-limited/mycompany/verification/)**, with 2.4 years of prior experience as a Junior Data Scientist who still loves igniting innovation in Data & Analytics
+- 💻 I'm a Data Scientist Co-op at **[Loblaws Companies Limited](https://www.linkedin.com/company/loblaw-companies-limited/mycompany/verification/)**, with 3.5 years of prior experience as a Junior Data Scientist who still loves igniting innovation in Data & Analytics
 
 - 📄 I hold a Master's in Applied Computing specializing in AI, driven by excitement for data exploration and creative problem-solving using Advanced Tools. Curious to see my work & education? **[➡️ My Resume](https://drive.google.com/file/d/1yzpIig8Yedn_pHO5F5y9jte3TnGjc3P7/view)**
 
