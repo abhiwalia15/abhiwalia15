@@ -25,7 +25,7 @@
 - 📫 Have an amazing Collaboration idea? Contact me on my email **waliamrinal@gmail.com** or get in touch through my **[LinkedIn.](https://www.linkedin.com/in/mrinal-walia-b0981b158/)** I promise I get back to all messages within 24 hrs
 
 
-### What are my featured projects:question::rocket:
+### What are my featured projects :question: :rocket:
 📈 <code>[Stock Pricae Prediction: 36 ⭐️ & 30 🍴](https://github.com/abhiwalia15/AI-for-Finance-Stocks-real-time-analysis-)</code>      
 🐍 <code>[Python for DS & ML-Bootcamp: 35 ⭐️ & 14 🍴](https://github.com/abhiwalia15/Python-for-Data-Science-and-Machine-Learning-Bootcamp)</code>   
 🖨 <code>[Document Scanner: 22 ⭐️ & 11 🍴](https://github.com/abhiwalia15/Document-Scanner-Using-OpenCV-Python)</code> <br>
@@ -36,7 +36,7 @@
   
      
 
-### Explore some of my highlighted blogs on Machine Learning and Artificial Intelligence for insightful perspectives:question::fire:
+### Explore some of my highlighted blogs on Machine Learning and Artificial Intelligence for insightful perspectives :question: :fire:
 <!-- BLOG-POST-LIST:START -->
 - [Top 5 Open-Source Machine Learning Recommender System Projects With Resources](https://medium.com/becoming-human/top-5-open-source-machine-learning-recommender-system-projects-with-resources-50583c4007c3)
 - [Difference Between Semantic Segmentation and Instance Segmentation](https://blog.roboflow.com/difference-semantic-segmentation-instance-segmentation/)
@@ -45,7 +45,7 @@
 - [Read some of my best blogs on Machine Learning and Artificial Intelligence](https://www.analyticsvidhya.com/blog/2022/04/a-comprehensive-guide-on-pygal-the-next-generation-data-visualization-library-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
-### What can I help with:question::cyclone:
+### What can I help with :question: :cyclone:
 <code>git commit -am "Almost everything about Technical Writing, Content Creation, Content Management & Anything and Everything possible to build using below tech stack👇"</code> :grin:
 
 <h3 align="left">Languages and Tools:</h3>
