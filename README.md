@@ -79,7 +79,4 @@
   <div class="column">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhiwalia15&theme=shades-of-purple&count_private=true&show_icons=true&locale=en" alt="abhiwalia15" style="width:45%" /></p>
   </div>
-  <div class="column">
-    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiwalia15&theme=shades-of-purple" alt="abhiwalia15" style="width:45%"/></p>
-  </div>
 </div>
