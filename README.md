@@ -16,7 +16,7 @@
 
 - 💻 I'm a Senior Technical Writer at **[Litmus Automation](https://docs.litmus.io/)**, with 7+ years of prior experience as a Technical Content Writer who still loves igniting innovation in Content & Analytics.
 
-- 📄 I hold a Master's in Applied Computing specializing in AI, driven by excitement for data exploration and creative customer-centric mindset using Advanced Tools. Curious to see my work & education? **[➡️ My Resume](https://docs.google.com/document/d/1qqha07bd9nikHETpDIARFQxHmYYANY5u/edit?usp=sharing&ouid=109646603180654083708&rtpof=true&sd=true)**
+- 📄 I hold a Master's in Applied Computing specializing in AI, driven by excitement for data exploration and creative customer-centric mindset using Advanced Tools. Curious to see my work & education? **[➡️ My Resume](https://www.linkedin.com/in/mrinal-walia-b0981b158/)**
 
 - 📝 I love sharing my knowledge in the form of weekly blogs in **[AI tools and technologies](https://medium.com/@waliamrinal)**
 
