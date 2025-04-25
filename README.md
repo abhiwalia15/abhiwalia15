@@ -26,7 +26,7 @@
 
 
 ### What are my featured projects :question: :rocket:
-📈 <code>[Stock Pricae Prediction: 36 ⭐️ & 30 🍴](https://github.com/abhiwalia15/AI-for-Finance-Stocks-real-time-analysis-)</code>      
+📈 <code>[Stock Pricae Prediction: 63 ⭐️ & 38 🍴](https://github.com/abhiwalia15/AI-for-Finance-Stocks-real-time-analysis-)</code>      
 🐍 <code>[Python for DS & ML-Bootcamp: 35 ⭐️ & 14 🍴](https://github.com/abhiwalia15/Python-for-Data-Science-and-Machine-Learning-Bootcamp)</code>   
 🖨 <code>[Document Scanner: 22 ⭐️ & 11 🍴](https://github.com/abhiwalia15/Document-Scanner-Using-OpenCV-Python)</code> <br>
 🙎🏼‍♂️ <code>[Facial Emotion Recognition: 6 ⭐️ & 3 🍴](https://github.com/abhiwalia15/Facial-Expression-Recognition)</code>   
