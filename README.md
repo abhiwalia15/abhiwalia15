@@ -14,7 +14,7 @@
 
 - 👨‍💻 All about me is at **[My Website](https://www.canva.com/design/DAFqZxNO7T8/q0aZ4Oj-rhu-T0q9ovlAiw/watch?utm_content=DAFqZxNO7T8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8b806e2023)**
 
-- 💻 I'm a Senior Technical Writer at **[Litmus Automation](https://docs.litmus.io/)**, with 7+ years of prior experience as a Technical Content Writer who still loves igniting innovation in Content & Analytics.
+- 💻 I'm a Technical Writer at **[h2o.ai](h2o.ai)**, with 7+ years of prior experience as a Technical Content Writer who still loves igniting innovation in Content & Analytics.
 
 - 📄 I hold a Master's in Applied Computing specializing in AI, driven by excitement for data exploration and creative customer-centric mindset using Advanced Tools. Curious to see my work & education? **[➡️ My Resume](https://www.linkedin.com/in/mrinal-walia-b0981b158/)**
 
