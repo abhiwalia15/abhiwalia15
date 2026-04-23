@@ -16,7 +16,7 @@
 
 - 💻 I'm a Technical Writer at **[h2o.ai](https://h2o.ai)**, with 9+ years of prior experience as a Technical Content Writer who still loves igniting innovation in Content & Analytics.
 
-- 📄 I hold a Master's in Applied Computing specializing in AI, driven by excitement for data exploration and creative customer-centric mindset using Advanced Tools. Curious to see my work & education? **[➡️ My Resume](https://www.linkedin.com/in/mrinal-walia-b0981b158/)**
+- 📄 I hold a Master's in Applied Computing specializing in AI, driven by excitement for data exploration and creative customer-centric mindset using Advanced Tools. Curious to see my work & education? **[➡️ My Resume](https://docs.google.com/document/d/1gMpNwkgdtPgcbhzq4kfRs0DnXoTSO6WT/edit?usp=sharing&ouid=109646603180654083708&rtpof=true&sd=true)**
 
 - 📝 I love sharing my knowledge in the form of weekly blogs in **[AI tools and technologies](https://medium.com/@waliamrinal)**
 
